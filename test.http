@@ -1,0 +1,4 @@
+GET http://localhost:8080/sync?max=2147483647&data=potato
+
+###
+GET http://localhost:8080/async?max=2147483647&data=potato
